@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 이더리움 입문
-description: >
-이더리움 입문자에 대한 최소한의 설명
-comments: true
+title: "이더리움 입문"
+date:  2020-03-23
 tags: [Ethereum]
 ---
+#이더리움이란?
+스크립팅 언어를 사용할 수 있는 새로운 플랫폼
