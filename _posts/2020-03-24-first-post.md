@@ -1,9 +1,14 @@
 ---
 
-layout: post title: 첫번째 포스팅 comments: true
+layout: post
+
+title: 첫번째 포스팅
+
+comments: true
 
 tag: [ethereum]
----------------
+
+---
 
 #이더리움
 
